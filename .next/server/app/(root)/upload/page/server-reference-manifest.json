@@ -1,0 +1,16 @@
+{
+  "node": {
+    "4082b6e8a699f14f8e8a0ea31d3e9b13e4f4cbca09": {
+      "workers": {
+        "app/(root)/upload/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/upload/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/resume.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(root)/upload/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

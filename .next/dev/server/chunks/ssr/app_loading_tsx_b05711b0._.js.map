@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/mohd%20zafar/resume-ats-checker/app/loading.tsx"],"sourcesContent":["import { Loader2 } from \"lucide-react\";\r\n\r\nexport default function LoadingSpinner() {\r\n  return (\r\n    <div className=\"flex items-center justify-center min-h-screen bg-white\">\r\n      <Loader2 className=\"w-12 h-12 text-blue-500 animate-spin\" />\r\n      <span className=\"sr-only\">Loading...</span>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;;;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC;gBAAQ,WAAU;;;;;;0BACnB,8OAAC;gBAAK,WAAU;0BAAU;;;;;;;;;;;;AAGhC","debugId":null}}]
+}

@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 76, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/mohd%20zafar/resume-ats-checker/inngest/client.ts"],"sourcesContent":["import { Inngest } from \"inngest\";\r\n\r\nexport const inngest = new Inngest({ id: \"resume-ats-checker\" });\r\n"],"names":[],"mappings":";;;AAAA;;AAEO,MAAM,UAAU,IAAI,kJAAA,CAAA,UAAO,CAAC;IAAE,IAAI;AAAqB","debugId":null}},
+    {"offset": {"line": 98, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/mohd%20zafar/resume-ats-checker/app/api/resume/scan/route.ts"],"sourcesContent":["import { inngest } from \"@/inngest/client\";\r\nimport { NextResponse } from \"next/server\";\r\n\r\nexport async function POST(req: Request) {\r\n  const body = await req.json();\r\n  const { resumeResultId, userId, resumeText } = body;\r\n\r\n  const event = await inngest.send({\r\n    name: \"resume/scan\",\r\n    data: {\r\n      resumeResultId,\r\n      userId,\r\n      resumeText,\r\n    },\r\n  });\r\n\r\n  return NextResponse.json({ ok: true, event });\r\n}\r\n"],"names":[],"mappings":";;;AAAA;AACA;;;AAEO,eAAe,KAAK,GAAY;IACrC,MAAM,OAAO,MAAM,IAAI,IAAI;IAC3B,MAAM,EAAE,cAAc,EAAE,MAAM,EAAE,UAAU,EAAE,GAAG;IAE/C,MAAM,QAAQ,MAAM,mHAAA,CAAA,UAAO,CAAC,IAAI,CAAC;QAC/B,MAAM;QACN,MAAM;YACJ;YACA;YACA;QACF;IACF;IAEA,OAAO,gIAAA,CAAA,eAAY,CAAC,IAAI,CAAC;QAAE,IAAI;QAAM;IAAM;AAC7C","debugId":null}}]
+}

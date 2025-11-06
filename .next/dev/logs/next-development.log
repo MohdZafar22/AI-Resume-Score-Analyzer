@@ -1,0 +1,4449 @@
+[00:00:03.844] Server  LOG      ✓ Ready in 2.8s
+[00:00:09.940] Server  LOG      ○ Compiling / ...
+[00:00:12.337] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:12.519] Browser WARN    Image with src "http://localhost:3001/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:04:27.424] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.427] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.432] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.434] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.439] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.441] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.443] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.446] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.449] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.452] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.455] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.457] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.461] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.463] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.466] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.468] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:27.471] Server  LOG      ✓ Compiled in 528ms
+[00:04:27.819] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:30.177] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.179] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.182] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.184] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.186] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.189] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.191] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.192] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.194] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.197] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.216] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.218] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.220] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.223] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.225] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.228] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.230] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.232] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.234] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.236] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.239] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.243] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.245] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.247] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.250] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.252] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.254] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.256] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.258] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.260] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.264] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.266] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.268] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.270] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.272] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.274] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.276] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.278] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.279] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.281] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.285] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.288] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.291] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.293] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.296] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.299] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.302] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.304] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.306] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.309] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.313] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.316] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.319] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.322] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.324] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.326] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.329] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.331] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.333] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.336] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.340] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.342] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.344] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.346] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.350] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.352] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.354] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.357] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.358] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.361] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.366] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.369] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.373] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.375] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.377] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.379] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.381] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.383] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.385] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.386] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:30.393] Server  LOG      ✓ Compiled in 458ms
+[00:04:30.782] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:30.782] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:30.782] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:30.782] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:30.782] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:06.782] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:06.782] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:06.782] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:06.782] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:06.782] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:07.780] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:10.977] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:05:11.112] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:11.112] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:11.112] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:11.112] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:11.112] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:12.135] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:12.135] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:12.135] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:12.135] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:12.135] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:12.260] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:12.260] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:12.260] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:12.260] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:12.260] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:13.422] Browser ERROR   uncaughtError: Error: ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:05:13.645] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:13.645] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:13.645] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:13.645] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:13.645] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:13.645] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:13.645] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:13.645] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:13.645] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:13.645] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:07:48.172] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:48.174] Server  ERROR    ⨯ ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:48.177] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:48.179] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:48.181] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:48.182] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:48.184] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:48.185] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:48.186] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:48.188] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:48.779] Browser ERROR   ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: C:\Users\mohd zafar\resume-ats-checker\app\globals.css:1:1: Can't resolve 'tw-animate-css' in 'C:\Users\mohd zafar\resume-ats-checker\app'
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (C:\Users\mohd zafar\resume-ats-checker\node_modules\@tailwindcss\postcss\dist\index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+[00:07:48.779] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:07:48.779] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:07:48.779] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:07:48.779] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:07:48.779] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:37.785] Browser ERROR   ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: C:\Users\mohd zafar\resume-ats-checker\app\globals.css:1:1: Can't resolve 'tw-animate-css' in 'C:\Users\mohd zafar\resume-ats-checker\app'
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (C:\Users\mohd zafar\resume-ats-checker\node_modules\@tailwindcss\postcss\dist\index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+[00:09:37.785] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:37.785] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:37.785] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:37.785] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:37.785] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:52.781] Browser ERROR   ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: C:\Users\mohd zafar\resume-ats-checker\app\globals.css:1:1: Can't resolve 'tw-animate-css' in 'C:\Users\mohd zafar\resume-ats-checker\app'
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (C:\Users\mohd zafar\resume-ats-checker\node_modules\@tailwindcss\postcss\dist\index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+[00:09:52.781] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:52.781] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:52.781] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:52.781] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:52.781] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:00.119] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:00.121] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:00.122] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:00.124] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:00.126] Server  ERROR    ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:00.128] Server  ERROR    ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:00.130] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:00.132] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:00.133] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:00.135] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:00.137] Server  ERROR    ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:00.138] Server  ERROR    ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:00.784] Browser ERROR   ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: C:\Users\mohd zafar\resume-ats-checker\app\globals.css:1:1: Can't resolve 'tw-animate-css' in 'C:\Users\mohd zafar\resume-ats-checker\app'
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (C:\Users\mohd zafar\resume-ats-checker\node_modules\@tailwindcss\postcss\dist\index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+[00:11:00.784] Browser ERROR   ./components/ui/button.tsx:5:1
+Module not found: Can't resolve '@/lib/utils'
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+> 5 | import { cn } from "@/lib/utils"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const buttonVariants = cva(
+  8 |   "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+
+Import map: aliased to relative './lib/utils' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:00.784] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:00.785] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:00.785] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:00.785] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:00.785] Browser ERROR   ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: C:\Users\mohd zafar\resume-ats-checker\app\globals.css:1:1: Can't resolve 'tw-animate-css' in 'C:\Users\mohd zafar\resume-ats-checker\app'
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (C:\Users\mohd zafar\resume-ats-checker\node_modules\@tailwindcss\postcss\dist\index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+[00:11:00.785] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:00.785] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:00.785] Browser ERROR   ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:00.785] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:00.785] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:00.785] Browser ERROR   ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:36.782] Browser ERROR   ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: C:\Users\mohd zafar\resume-ats-checker\app\globals.css:1:1: Can't resolve 'tw-animate-css' in 'C:\Users\mohd zafar\resume-ats-checker\app'
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (C:\Users\mohd zafar\resume-ats-checker\node_modules\@tailwindcss\postcss\dist\index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+[00:11:36.782] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:36.782] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:36.782] Browser ERROR   ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:36.782] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:36.782] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:36.782] Browser ERROR   ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:44.316] Server  LOG        Reload env: .env
+[00:11:44.474] Server  ERROR    ⨯ ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: C:\Users\mohd zafar\resume-ats-checker\app\globals.css:1:1: Can't resolve 'tw-animate-css' in 'C:\Users\mohd zafar\resume-ats-checker\app'
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (C:\Users\mohd zafar\resume-ats-checker\node_modules\@tailwindcss\postcss\dist\index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+
+
+
+./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:11:44.797] Browser ERROR   uncaughtError: Error: ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: C:\Users\mohd zafar\resume-ats-checker\app\globals.css:1:1: Can't resolve 'tw-animate-css' in 'C:\Users\mohd zafar\resume-ats-checker\app'
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (C:\Users\mohd zafar\resume-ats-checker\node_modules\@tailwindcss\postcss\dist\index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+
+
+[00:11:45.781] Browser ERROR   ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: C:\Users\mohd zafar\resume-ats-checker\app\globals.css:1:1: Can't resolve 'tw-animate-css' in 'C:\Users\mohd zafar\resume-ats-checker\app'
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (C:\Users\mohd zafar\resume-ats-checker\node_modules\@tailwindcss\postcss\dist\index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+[00:11:45.781] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:45.781] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:45.781] Browser ERROR   ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:45.781] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:45.781] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:45.781] Browser ERROR   ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:45.781] Browser ERROR   ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: C:\Users\mohd zafar\resume-ats-checker\app\globals.css:1:1: Can't resolve 'tw-animate-css' in 'C:\Users\mohd zafar\resume-ats-checker\app'
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (C:\Users\mohd zafar\resume-ats-checker\node_modules\@tailwindcss\postcss\dist\index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+[00:11:45.781] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:45.781] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:45.781] Browser ERROR   ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:45.781] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:45.781] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:11:45.781] Browser ERROR   ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:32.790] Browser ERROR   ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: C:\Users\mohd zafar\resume-ats-checker\app\globals.css:1:1: Can't resolve 'tw-animate-css' in 'C:\Users\mohd zafar\resume-ats-checker\app'
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (C:\Users\mohd zafar\resume-ats-checker\node_modules\@tailwindcss\postcss\dist\index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+[00:12:32.790] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:32.790] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:32.790] Browser ERROR   ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:32.790] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:32.790] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:32.790] Browser ERROR   ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:57.786] Browser ERROR   ./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: C:\Users\mohd zafar\resume-ats-checker\app\globals.css:1:1: Can't resolve 'tw-animate-css' in 'C:\Users\mohd zafar\resume-ats-checker\app'
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (C:\Users\mohd zafar\resume-ats-checker\node_modules\@tailwindcss\postcss\dist\index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+[00:12:57.786] Browser ERROR   ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:57.786] Browser ERROR   ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:57.786] Browser ERROR   ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:57.786] Browser ERROR   ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:57.786] Browser ERROR   ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:57.786] Browser ERROR   ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:00.605] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.609] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.611] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.614] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.616] Server  ERROR    ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.620] Server  ERROR    ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.622] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.624] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.626] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.628] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.631] Server  ERROR    ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.633] Server  ERROR    ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.635] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.638] Server  ERROR    ⨯ ./components/ui/button.tsx:2:1
+Module not found: Can't resolve '@radix-ui/react-slot'
+  1 | import * as React from "react"
+> 2 | import { Slot } from "@radix-ui/react-slot"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { cva, type VariantProps } from "class-variance-authority"
+  4 |
+  5 | import { cn } from "@/lib/utils"
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.640] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.642] Server  ERROR    ⨯ ./components/ui/button.tsx:3:1
+Module not found: Can't resolve 'class-variance-authority'
+  1 | import * as React from "react"
+  2 | import { Slot } from "@radix-ui/react-slot"
+> 3 | import { cva, type VariantProps } from "class-variance-authority"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | import { cn } from "@/lib/utils"
+  6 |
+
+
+
+Import trace:
+  Server Component:
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.644] Server  ERROR    ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.647] Server  ERROR    ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { clsx, type ClassValue } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.649] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.650] Server  ERROR    ⨯ ./app/loading.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Loader2 } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function LoadingSpinner() {
+  4 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.652] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.654] Server  ERROR    ⨯ ./app/not-found.tsx:3:1
+Module not found: Can't resolve 'lucide-react'
+  1 | import Link from "next/link";
+  2 | import { Button } from "@/components/ui/button";
+> 3 | import { AlertTriangle } from "lucide-react";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | export default function NotFound() {
+  6 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.656] Server  ERROR    ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:00.658] Server  ERROR    ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { clsx, type ClassValue } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./app/not-found.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+

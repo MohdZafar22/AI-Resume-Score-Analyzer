@@ -1,0 +1,17 @@
+const CHUNK_PUBLIC_PATH = "server/app/(auth)/sign-in/page.js";
+const runtime = require("../../../chunks/ssr/[turbopack]_runtime.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_next_dist_0962b827._.js");
+runtime.loadChunk("server/chunks/ssr/[root-of-the-server]__fb250061._.js");
+runtime.loadChunk("server/chunks/ssr/app_1f3630ef._.js");
+runtime.loadChunk("server/chunks/ssr/[externals]_next_dist_compiled_@vercel_og_index_node_36bbc6b0.js");
+runtime.loadChunk("server/chunks/ssr/_fad8c0c1._.js");
+runtime.loadChunk("server/chunks/ssr/[root-of-the-server]__a0ba6721._.js");
+runtime.loadChunk("server/chunks/ssr/_cc027e99._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_aed87b58._.js");
+runtime.loadChunk("server/chunks/ssr/_79ca3fe1._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_b04db032._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_next_dist_client_components_unauthorized-error_c8949b27.js");
+runtime.loadChunk("server/chunks/ssr/_b313269b._.js");
+runtime.getOrInstantiateRuntimeModule("[project]/.next-internal/server/app/(auth)/sign-in/page/actions.js [app-rsc] (server actions loader, ecmascript)", CHUNK_PUBLIC_PATH);
+runtime.getOrInstantiateRuntimeModule("[project]/node_modules/next/dist/esm/build/templates/app-page.js?page=/(auth)/sign-in/page { METADATA_0 => \"[project]/app/favicon.ico.mjs { IMAGE => \\\"[project]/app/favicon.ico (static in ecmascript)\\\" } [app-rsc] (structured image object, ecmascript, Next.js server component)\", METADATA_1 => \"[project]/app/icon--metadata.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_2 => \"[project]/app/layout.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_3 => \"[project]/app/loading.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_4 => \"[project]/app/not-found.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_5 => \"[project]/node_modules/next/dist/client/components/forbidden-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_6 => \"[project]/node_modules/next/dist/client/components/unauthorized-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_7 => \"[project]/app/(auth)/sign-in/page.tsx [app-rsc] (ecmascript, Next.js server component)\" } [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH);
+module.exports = runtime.getOrInstantiateRuntimeModule("[project]/node_modules/next/dist/esm/build/templates/app-page.js?page=/(auth)/sign-in/page { METADATA_0 => \"[project]/app/favicon.ico.mjs { IMAGE => \\\"[project]/app/favicon.ico (static in ecmascript)\\\" } [app-rsc] (structured image object, ecmascript, Next.js server component)\", METADATA_1 => \"[project]/app/icon--metadata.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_2 => \"[project]/app/layout.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_3 => \"[project]/app/loading.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_4 => \"[project]/app/not-found.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_5 => \"[project]/node_modules/next/dist/client/components/forbidden-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_6 => \"[project]/node_modules/next/dist/client/components/unauthorized-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_7 => \"[project]/app/(auth)/sign-in/page.tsx [app-rsc] (ecmascript, Next.js server component)\" } [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH).exports;
