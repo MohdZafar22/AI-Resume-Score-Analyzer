@@ -5,8 +5,7 @@
 > Analyze resumes in seconds using AI — extract key skills, experience insights, and match candidates to roles automatically.
 
 ![alt image](https://github.com/MohdZafar22/AI-Resume-Score-Analyzer/blob/a1a29742062a9ee19831df039e1973c3b704c70c/Screenshot%20(14).png)
-![alt image](https://github.com/MohdZafar22/AI-Resume-Score-Analyzer/blob/3d4b062b267d0b5a66f8e0de4845d2f7307003b7/Screenshot%20(15).png)
-![alt image](https://github.com/MohdZafar22/AI-Resume-Score-Analyzer/blob/3d4b062b267d0b5a66f8e0de4845d2f7307003b7/Screenshot%20(16).png)
+![alt image]([https://github.com/MohdZafar22/AI-Resume-Score-Analyzer/blob/3d4b062b267d0b5a66f8e0de4845d2f7307003b7/Screenshot%20(15).png](https://github.com/MohdZafar22/AI-Resume-Score-Analyzer/blob/7d4fe9562ae4b036b1d04c0227cfffb553af49c0/demo.mp4))
 
 
 
