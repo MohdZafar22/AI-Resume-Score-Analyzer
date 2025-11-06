@@ -4,8 +4,7 @@
 
 > Analyze resumes in seconds using AI — extract key skills, experience insights, and match candidates to roles automatically.
 
-![App Screenshot](https://your-screenshot-link-here)
-*(Replace with a screenshot of your deployed app)*
+https://github.com/MohdZafar22/AI-Resume-Score-Analyzer/blob/a1a29742062a9ee19831df039e1973c3b704c70c/Screenshot%20(14).png
 
 ---
 
