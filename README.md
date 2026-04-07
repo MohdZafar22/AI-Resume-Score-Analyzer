@@ -1,39 +1,123 @@
-# Resume Scan AI
+# 🚀 Resume Scan AI
 
-Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui. Features include user sign-up, sign-in, uploading and scanning resumes, viewing scan results, and deleting analyses.
+<p align="center">
+  <b>📄 Scan • 🤖 Analyze • 📊 Improve</b><br/>
+  AI-powered resume analyzer to boost your job chances
+</p>
 
-## Getting Started
+---
 
-Clone the repository:
+## 📌 Overview
 
-```bash
+✨ **Resume Scan AI** is a smart web application that helps users improve their resumes using **AI-driven insights**.
+
+With this tool, you can:
+
+* 🔐 Securely sign up & sign in
+* 📄 Upload your resume
+* 🤖 Scan resumes using AI
+* 📊 Get detailed analysis & feedback
+* 🗑️ Manage and delete past scans
+
+---
+
+## ✨ Features
+
+* 🔑 Authentication system (Sign Up / Sign In)
+* 📄 Resume upload & processing
+* 🤖 AI-powered resume analysis
+* 📊 ATS-style insights & feedback
+* 🗂️ Manage scan history
+* ⚡ Fast, clean, and responsive UI
+
+---
+
+## 🧩 Tech Architecture
+
+| 🏗️ Component      | ⚙️ Technology Used      | 📌 Purpose                          |
+| ------------------ | ----------------------- | ----------------------------------- |
+| 🎨 Frontend        | Next.js 15, React       | Build UI & handle user interactions |
+| 🎨 Styling         | Tailwind CSS, Shadcn/ui | Modern, responsive design           |
+| 🔗 API Layer       | Next.js API Routes      | Handle client-server communication  |
+| 🔐 Authentication  | BetterAuth              | Secure user authentication          |
+| 🤖 AI Engine       | OpenAI API              | Resume analysis & insights          |
+| ⚙️ Background Jobs | Inngest                 | Async resume processing             |
+| 🗄️ Database       | PostgreSQL              | Store user data & results           |
+| 🔄 ORM             | Prisma ORM              | Database query management           |
+
+---
+
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash id="c9r2gs"
 git clone https://github.com/saidMounaim/resume-scan-AI.git
+cd resume-scan-AI
 ```
 
-Install dependencies:
+### 2️⃣ Install Dependencies
 
-```bash
+```bash id="3opx8j"
 npm install
 ```
 
+### 3️⃣ Setup Environment Variables
+
 Create a `.env` file:
 
-```env
+```env id="m21c0c"
 DATABASE_URL=""
 BETTER_AUTH_BASE_URL=""
 OPENAI_API_KEY=""
+INNGEST_EVENT_KEY=""
 ```
 
-## Built With
+---
 
-- [Next.js](https://nextjs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Shadcn/ui](https://ui.shadcn.com/)
-- [BetterAuth](https://www.better-auth.com/)
-- [Open AI](https://platform.openai.com/docs/overview)
-- [Inngest](https://www.inngest.com/)
+## 🚀 Run the App
 
-## Contribution
+```bash id="m8pztz"
+npm run dev
+```
 
-All kinds of contributions are welcome. Feel free to fork the repo and submit a pull request!
+🌐 Open in browser:
+👉 http://localhost:3000
+
+---
+
+## 🏗️ Application Flow
+
+1️⃣ 🔐 User signs in
+2️⃣ 📄 Uploads resume
+3️⃣ ⚙️ Processed via Inngest
+4️⃣ 🤖 AI analyzes content
+5️⃣ 📊 Results stored in database
+6️⃣ 📈 Display insights on dashboard
+
+---
+
+## 🛠️ Built With
+
+* ⚡ Next.js
+* 🎨 Tailwind CSS
+* 🟦 TypeScript
+* 🧩 Shadcn/ui
+* 🔐 BetterAuth
+* 🤖 OpenAI
+* ⚙️ Inngest
+  
+---
+
+## ⭐ Support
+
+If you like this project:
+
+👉 Give it a ⭐ on GitHub
+👉 Share it with others
+
+---
+
+<p align="center">
+  💬 <i>"Your resume is your first impression. Make it powerful with AI."</i>
+</p>
