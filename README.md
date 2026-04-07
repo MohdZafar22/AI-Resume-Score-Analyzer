@@ -50,10 +50,10 @@ With this tool, you can:
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-(Screenshot(18).png)
+![Dashboard](.Screenshot(18).png)
 
 ### 📄 Resume Upload
-![Upload](Screenshot(19).png)
+![Upload](./Screenshot(19).png)
 
 ### 📊 Analysis Result
 ![Analysis](Screenshot(21).png)
