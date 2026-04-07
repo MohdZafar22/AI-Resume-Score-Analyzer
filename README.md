@@ -53,13 +53,13 @@ With this tool, you can:
 ![Dashboard](./Screenshot%20(18).png)
 
 ### 📄 Resume Upload
-![Upload](./Screenshot (19).png)
+![Upload](./Screenshot%20(19).png)
 
 ### 📊 Analysis Result
-![Analysis](/Screenshot(21).png)
+![Analysis](./Screenshot%20(21).png)
 
 ### 🧠 AI Feedback
-![Feedback](Screenshot(23).png)
+![Feedback](./Screenshot%20(23).png)
 
 ## ⚙️ Getting Started
 
