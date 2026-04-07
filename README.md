@@ -50,7 +50,7 @@ With this tool, you can:
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](Screenshot(18).png)
+(Screenshot(18).png)
 
 ### 📄 Resume Upload
 ![Upload](Screenshot(19).png)
