@@ -50,16 +50,16 @@ With this tool, you can:
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](./Screenshot(18).png)
+![Dashboard](Screenshot(18).png)
 
 ### 📄 Resume Upload
-![Upload](./Screenshot(19).png)
+![Upload](Screenshot(19).png)
 
 ### 📊 Analysis Result
-![Analysis](./Screenshot(21).png)
+![Analysis](Screenshot(21).png)
 
 ### 🧠 AI Feedback
-![Feedback](./Screenshot(23).png)
+![Feedback](Screenshot(23).png)
 
 ## ⚙️ Getting Started
 
