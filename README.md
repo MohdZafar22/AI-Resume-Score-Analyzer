@@ -1,4 +1,4 @@
-# 🚀 Resume Scan AI
+# 🚀 ResumeIQ - Smart Resume Analysis Platform
 
 <p align="center">
   <b>📄 Scan • 🤖 Analyze • 📊 Improve</b><br/>
@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 
-✨ **Resume Scan AI** is a smart web application that helps users improve their resumes using **AI-driven insights**.
+✨ **ResumeIQ - Smart Resume Analysis PlatformI** is a smart web application that helps users improve their resumes using **AI-driven insights**.
 
 With this tool, you can:
 
